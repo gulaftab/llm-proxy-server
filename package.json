@@ -4,7 +4,7 @@
   "description": "A minimal Express proxy server to securely handle LLM API calls for a frontend application.",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
